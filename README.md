@@ -1,3 +1,5 @@
 # DataAnalysis-Projects
 [**Supply Chain Analysis**](https://github.com/shreyakabra/DataAnalysisProjects/blob/main/SupplyChainAnalysis.ipynb):
 This project analyzes supply chain data for cosmetics, haircare, and skincare, focusing on revenue, stock levels, lead times, and manufacturing costs. Key stats include average lead times (cosmetics: 13.54 days, haircare: 18.71 days, skincare: 18.00 days) and manufacturing costs (cosmetics: 43.05, haircare: 48.46, skincare: 48.99). Visualizations provide insights to optimize product performance and supply chain efficiency.
+
+[**Cohort Analysis**](https://github.com/shreyakabra/DataAnalysis-Projects/blob/main/CohortAnalysis.ipynb): Performed cohort analysis on user data to track new and returning users, engagement durations, and average session durations. The dataset includes 30 entries with mean values of 3,418 new users and 1,353 returning users per day, and average durations of 208.26 seconds on Day 1 and 136.04 seconds on Day 7. Visualizations highlight trends in user engagement and retention, providing insights for improving user experience and retention strategies.
